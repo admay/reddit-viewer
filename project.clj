@@ -52,12 +52,6 @@
 
   :aliases {"package" ["do" "clean" ["cljsbuild" "once" "release"]]}
 
-  ;; :repl-options {:init (do
-  ;;                        (require 'figwheel-sidecar.repl-api)
-  ;;                        (figwheel-sidecar.repl-api/start-figwheel!)
-  ;;                        (figwheel-sidecar.repl-api/cljs-repl))}
-
-
   :profiles {:dev {:dependencies [[binaryage/devtools "0.9.4"]
                                   [figwheel-sidecar "0.5.11"]
                                   [org.clojure/tools.nrepl "0.2.13"]
