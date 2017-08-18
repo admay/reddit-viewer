@@ -1,6 +1,7 @@
 # Reddit Viewer
 
 This is a test project I'm using to slowly learn React through Reagent and Re-frame.
+This branch is the re-framed version of the master branch version.
 
 ### Development mode
 
