@@ -1,3 +1,6 @@
+# Reddit Viewer
+
+This is a test project I'm using to slowly learn React through Reagent and Re-frame.
 
 ### Development mode
 
